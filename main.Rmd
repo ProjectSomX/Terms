@@ -1,0 +1,77 @@
+--- 
+title: "SomX - Privacy Policy and Terms of Use"
+author: "The SomX Project's Owners"
+output: html_document
+--- 
+
+**Introduction**
+
+```{r child = 'Introduction.Rmd'}
+```
+  
+**Right to Use Service**
+
+```{r child = 'Rights.Rmd'}
+```
+  
+**Your Account**
+
+```{r child = 'Account.Rmd'}
+```
+  
+**Intellectual Property**
+
+```{r child = 'Property.Rmd'}
+```
+
+**Your Content**
+
+```{r child = 'Content.Rmd'}
+```
+  
+**Conduct**
+
+```{r child = 'Conduct.Rmd'}
+```
+  
+**Feedback**
+
+```{r child = 'Feedback.Rmd'}
+```
+
+**Third-Party**
+
+```{r child = 'ThirdParties.Rmd'}
+```
+  
+**Termination**
+
+```{r child = 'Termination.Rmd'}
+```
+  
+**General terms**
+
+```{r child = 'General.Rmd'}
+```
+
+**User Disputes**
+
+```{r child = 'Disputes.Rmd'}
+```
+
+# SomX Privacy Policy
+
+**What We Collect:**
+
+```{r child = 'Privacy/CollectedData.Rmd'}
+```
+
+**Disclosure of Information**
+
+```{r child = 'Privacy/Disclosure.Rmd'}
+```
+  
+**Security**
+
+```{r child = 'Privacy/Security.Rmd'}
+```

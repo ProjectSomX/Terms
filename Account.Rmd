@@ -1,0 +1,6 @@
+Your account is the way to manipulate any data you store, as well as accessing the service and all it's features.
+
+  * You are responsible for your account's safety, if someone else gets access it is your responsibility.
+  * We have the right to reject usernames for any reason
+  * (not in terms) Passwords must be strong, to keep hashes from being guessed
+  * We require a valid e-mail on signup. Such e-mail address will be verified upon signup, and using a fake/temp e-mail address might lock your access to SomX (full or partial) due to the frequent verification.

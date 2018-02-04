@@ -1,0 +1,6 @@
+  * Anything you upload is information you provide
+  * If you connect your account to an external service, you provide that information
+  * We collect usage statistics (not user-specific, anonymous and general-purpose only) (like how many accounts are created)
+Cookies? (update later) [comment]: <> Only for non-confidential information (like your selected language)
+  * We do not respond to “Do Not Track” requests because not tracking you is our main goal.
+  * We use information only as necessary to run the service

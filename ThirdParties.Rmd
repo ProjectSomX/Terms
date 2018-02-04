@@ -1,0 +1,4 @@
+Regarded services besides SomX that use our APIs or integration methods
+
+  * We do not endorse third parties
+  * We are not liable for third-party damage
